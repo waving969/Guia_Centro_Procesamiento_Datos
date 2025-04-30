@@ -7,7 +7,7 @@ Este repositorio contiene documentación detallada sobre diversas prácticas rea
 1. [Contenedores Docker e inicialización](practicas/practica1/README.md)
 2. [Contenedores Docker 2: Creación de imágenes personalizadas](practicas/practica2/README.md)
 3. [Docker Swarm: Ejecución de un servicio web](practicas/practica3/README.md)
-4. [Creación de máquinas virtuales con Vagrant y despliegue de almacenamiento con GlusterFS](practica4/README.md)
+4. [Creación de máquinas virtuales con Vagrant y despliegue de almacenamiento con GlusterFS](practica4/Readme.md)
 5. [Acceso remoto mediante SSH a un escritorio de una máquina virtual](practicas/practica5/README.md)
 6. [Almacenamiento sincronizado y compartido: Despliegue de un servidor NextCloud y ZeroTier](practicas/practica6/README.md)
 7. [Copias de seguridad con Kopia](practicas/practica7/README.md)
