@@ -4,16 +4,16 @@ Este repositorio contiene documentación detallada sobre diversas prácticas rea
 
 ## Índice de Prácticas
 
-1. [Contenedores Docker e inicialización](practicas/practica1/README.md)
-2. [Contenedores Docker 2: Creación de imágenes personalizadas](practicas/practica2/README.md)
-3. [Docker Swarm: Ejecución de un servicio web](practicas/practica3/README.md)
+1. [Contenedores Docker e inicialización](practica1/README.md)
+2. [Contenedores Docker 2: Creación de imágenes personalizadas](practica2/README.md)
+3. [Docker Swarm: Ejecución de un servicio web](practica3/README.md)
 4. [Creación de máquinas virtuales con Vagrant y despliegue de almacenamiento con GlusterFS](practica4/Readme.md)
-5. [Acceso remoto mediante SSH a un escritorio de una máquina virtual](practicas/practica5/README.md)
-6. [Almacenamiento sincronizado y compartido: Despliegue de un servidor NextCloud y ZeroTier](practicas/practica6/README.md)
-7. [Copias de seguridad con Kopia](practicas/practica7/README.md)
-8. [Seguridad: Fail2Ban, Google Authenticator, servidor Nginx con protección y red TOR](practicas/practica8/README.md)
-9. [Virtualización con LXD y gestión de alertas con Telegram](practicas/practica9/README.md)
-10. [Monitorización de recursos con Grafana](practicas/practica10/README.md)
+5. [Acceso remoto mediante SSH a un escritorio de una máquina virtual](practica5/README.md)
+6. [Almacenamiento sincronizado y compartido: Despliegue de un servidor NextCloud y ZeroTier](practica6/README.md)
+7. [Copias de seguridad con Kopia](practica7/README.md)
+8. [Seguridad: Fail2Ban, Google Authenticator, servidor Nginx con protección y red TOR](practica8/README.md)
+9. [Virtualización con LXD y gestión de alertas con Telegram](practica9/README.md)
+10. [Monitorización de recursos con Grafana](practica10/README.md)
 
 ## Estructura del Repositorio
 
